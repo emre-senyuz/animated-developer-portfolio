@@ -33,6 +33,7 @@ All companies, experience, and projects are illustrative. Project arrows point t
 
 ## Screenshot
 
-![Clearly labeled screenshot placeholder](public/screenshot-placeholder.svg)
+<img width="1902" height="910" alt="image" src="https://github.com/user-attachments/assets/66724c63-0f20-444f-b9f5-2b2205fd1a37" />
+
 
 This is a placeholder, not a screenshot of a verified browser rendering. Replace it after capturing the application.
